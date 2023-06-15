@@ -9,3 +9,12 @@ Para instalar Nuestro Proyecto siga los siguientes paso:
 4-) Deberás descargar Postman o cualquier otro programa o cliente para enviar las consultas al servidor.
 
 Con esto ya estaría listo para funcionar el servidor.
+
+Lista de EndPoints {
+    http://localhost:3000/clientes
+    http://localhost:3000/clientes/agregar
+    http://localhost:3000/cuentas
+    http://localhost:3000/cuentas/agregar
+    http://localhost:3000/cuentas/editar/(id)
+    http://localhost:3000/cuentas/eliminar/(id)
+}
