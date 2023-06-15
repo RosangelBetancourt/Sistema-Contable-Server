@@ -6,4 +6,6 @@ Para instalar Nuestro Proyecto siga los siguientes paso:
 
 3-) Usar dentro de la terminal el comando "npm install", esto instalará todas las dependencias del server.
 
+4-) Deberás descargar Postman o cualquier otro programa o cliente para enviar las consultas al servidor.
+
 Con esto ya estaría listo para funcionar el servidor.
