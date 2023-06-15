@@ -17,4 +17,13 @@ Lista de EndPoints {
     http://localhost:3000/cuentas/agregar
     http://localhost:3000/cuentas/editar/(id)
     http://localhost:3000/cuentas/eliminar/(id)
+    http://localhost:3000/facturas
+    http://localhost:3000/facturas/(fecha)
+    http://localhost:3000/facturas/agregar
+    http://localhost:3000/facturas/eliminar/(id)
+    http://localhost:3000/provedores
+    http://localhost:3000/provedores/agregar
+    http://localhost:3000/productos
+    http://localhost:3000/productos/agregar
+    http://localhost:3000/productos/eliminar/(id)
 }
