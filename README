@@ -3,3 +3,7 @@ Para instalar Nuestro Proyecto siga los siguientes paso:
 1-) Descargar el Zip del Repositorio.
 
 2-) Descomprimir el Zip, luego abrir la carpeta con VSC (Visual Studio Code).
+
+3-) Usar dentro de la terminal el comando "npm install", esto instalará todas las dependencias del server.
+
+Con esto ya estaría listo para funcionar el servidor.
